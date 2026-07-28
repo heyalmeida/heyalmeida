@@ -31,7 +31,7 @@
 
 Software engineer focused on backend architecture, SaaS infrastructure, and high-performance web applications.
 
-- **Current Project:** Architecting **Arctis Deploy**, a self-hosted B2B deployment engine written in Go with SSH-less infrastructure management.
+- **Current Project:** Architecting **Arctis Deploy**, a self-hosted B2B2C deployment engine written in Go with SSH-less infrastructure management.
 - **Focus:** Multi-tenant systems, RBAC access control, microservices, and web performance optimization.
 - **Workflow:** Spec-driven development paired with AI engineering tools (Claude Code, Gemini, Cursor) to maintain high output without sacrificing code quality.
 
@@ -43,7 +43,7 @@ Software engineer focused on backend architecture, SaaS infrastructure, and high
 * **Frontend:** Next.js (App Router), React, Tailwind CSS
 * **Backend:** Go (GORM, REST), Node.js (NestJS, Express, Hono)
 * **Infra / DevOps:** Docker, Nginx, Cloudflare Tunnels, GitHub Actions, GitLab CI, Linux
-* **Databases:** MySQL, MongoDB, Redis
+* **Databases:** MySQL, MongoDB, Redis, SQL, NoSQL, Microsft SQL Server
 
 ---
 
