@@ -2,7 +2,7 @@
 
   <!-- Banner Animado em formato Terminal -->
   <a href="https://github.com/heyalmeida">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=60&lines=hey%2C+i'm+pedro+almeida.;software+engineer+%7C+go+%26+typescript;building+distributed+systems+%26+saas." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=60&lines=hey%2C+i'm+Pedro+Almeida.;software+engineer+%7C+go+%26+typescript;building+distributed+systems+%26+saas." alt="Typing SVG" />
   </a>
 
   <p align="center">
