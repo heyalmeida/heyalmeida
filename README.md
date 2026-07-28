@@ -1,16 +1,68 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**heyalmeida/heyalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Banner Animado em formato Terminal -->
+  <a href="https://github.com/heyalmeida">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=60&lines=hey%2C+i'm+pedro+almeida.;software+engineer+%7C+go+%26+typescript;building+distributed+systems+%26+saas." alt="Typing SVG" />
+  </a>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <code>Go</code> &nbsp;•&nbsp; 
+    <code>TypeScript</code> &nbsp;•&nbsp; 
+    <code>Next.js</code> &nbsp;•&nbsp; 
+    <code>Docker</code> &nbsp;•&nbsp; 
+    <code>Linux</code>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <a href="https://linkedin.com/in/hey-almeida">
+      <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mc33pedrobr@gmail.com">
+      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### // About
+
+Software engineer focused on backend architecture, SaaS infrastructure, and high-performance web applications.
+
+- **Current Project:** Architecting **Arctis Deploy**, a self-hosted B2B deployment engine written in Go with SSH-less infrastructure management.
+- **Focus:** Multi-tenant systems, RBAC access control, microservices, and web performance optimization.
+- **Workflow:** Spec-driven development paired with AI engineering tools (Claude Code, Gemini, Cursor) to maintain high output without sacrificing code quality.
+
+---
+
+### // Tech Stack
+
+* **Languages:** Go, TypeScript, JavaScript (ES6+), Java, SQL
+* **Frontend:** Next.js (App Router), React, Tailwind CSS
+* **Backend:** Go (GORM, REST), Node.js (NestJS, Express, Hono)
+* **Infra / DevOps:** Docker, Nginx, Cloudflare Tunnels, GitHub Actions, Linux
+* **Databases:** MySQL, MongoDB, Redis
+
+---
+
+### // Selected Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Arctis Deploy** | Self-hosted deployment platform with automated reverse-proxy & Cloudflare tunnels | Go, Docker, Nginx, Stripe API, MySQL |
+| **Lumine** | Multi-provider LLM chatbot application featuring real-time streaming responses | Next.js 15, Hono, Redis, MongoDB |
+
+---
+
+### // Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heyalmeida&theme=github-compact&hide_border=true&area=true&color=61afef" width="100%" alt="Pedro's Activity Graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <sub><code>heyalmeida</code> — Clean architecture & minimal design.</sub>
+</div>
