@@ -2,11 +2,12 @@
 
   <!-- Banner Animado em formato Terminal -->
   <a href="https://github.com/heyalmeida">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=60&lines=hey%2C+i'm+Pedro+Almeida.;software+engineer+%7C+go+%26+typescript;building+distributed+systems+%26+saas." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&height=60&lines=hey%2C+i'm+Pedro+Almeida.;Software+Engineer+%7C+Go+%26+Typescript;Building+Distributed+Systems+%26+saas." alt="Typing SVG" />
   </a>
 
   <p align="center">
     <code>Go</code> &nbsp;•&nbsp; 
+    <code>Java</code> &nbsp;•&nbsp; 
     <code>TypeScript</code> &nbsp;•&nbsp; 
     <code>Next.js</code> &nbsp;•&nbsp; 
     <code>Docker</code> &nbsp;•&nbsp; 
@@ -41,7 +42,7 @@ Software engineer focused on backend architecture, SaaS infrastructure, and high
 * **Languages:** Go, TypeScript, JavaScript (ES6+), Java, SQL
 * **Frontend:** Next.js (App Router), React, Tailwind CSS
 * **Backend:** Go (GORM, REST), Node.js (NestJS, Express, Hono)
-* **Infra / DevOps:** Docker, Nginx, Cloudflare Tunnels, GitHub Actions, Linux
+* **Infra / DevOps:** Docker, Nginx, Cloudflare Tunnels, GitHub Actions, GitLab CI, Linux
 * **Databases:** MySQL, MongoDB, Redis
 
 ---
@@ -51,7 +52,9 @@ Software engineer focused on backend architecture, SaaS infrastructure, and high
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **Arctis Deploy** | Self-hosted deployment platform with automated reverse-proxy & Cloudflare tunnels | Go, Docker, Nginx, Stripe API, MySQL |
-| **Lumine** | Multi-provider LLM chatbot application featuring real-time streaming responses | Next.js 15, Hono, Redis, MongoDB |
+| **Lumine** | Multi-provider LLM chatbot application featuring real-time streaming responses | Next.js 15, Hono, Redis, MongoDB, Vercel AI SDK |
+| **Portal Institucional** | Full-stack server-side portal with granular RBAC administrative dashboard and technical SEO optimization | React, Node.js, Express, GitLab CI, Docker, Linux |
+| **Lojas M&M** | E-commerce platform with integrated Mercado Pago payment checkout and automated shipping calculations | Next.js, React, Mercado Pago API, Correios API |
 
 ---
 
