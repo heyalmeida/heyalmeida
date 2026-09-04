@@ -56,8 +56,7 @@ Software engineer focused on backend architecture, SaaS infrastructure, and AI t
 ### // Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyalmeida&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide_title=true" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyalmeida&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="130" />
+  <img src="https://streak-stats.demolab.com?user=heyalmeida&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 </div>
 
 <br />
