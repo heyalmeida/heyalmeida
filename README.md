@@ -26,7 +26,9 @@
 
 Software engineer focused on backend architecture, SaaS infrastructure, and AI tooling.
 
-- **Current Project:** Building **[Émile CLI](https://github.com/heyalmeida/emile-cli)** — a provider-agnostic terminal coding agent with a skills system, MCP integration, and plans mode.
+- **Current Projects:** 
+  Building **[Émile CLI](https://github.com/heyalmeida/emile-cli)** — a provider-agnostic terminal coding agent with a skills system, MCP integration, and plans mode.
+  Building **[Luarvia](https://dash.luarvia.dev) - a managed deployment platform for agencies and freelance developers, with teams, projects, resource pools, and more.**
 - **Focus:** AI-powered developer tooling, multi-tenant systems, and web performance.
 - **Workflow:** Spec-driven development with AI engineering tools (Claude Code, Cursor) to maintain high output without sacrificing code quality.
 
@@ -48,7 +50,7 @@ Software engineer focused on backend architecture, SaaS infrastructure, and AI t
 | :--- | :--- | :--- |
 | **[Émile CLI](https://github.com/heyalmeida/emile-cli)** | Provider-agnostic terminal coding agent — skills system, MCP via STDIO, session persistence, plans mode and live reasoning stream | Node.js, ES Modules, YAML, MCP |
 | **Lumine** | Multi-provider LLM chatbot platform with real-time streaming responses | Next.js 15, Hono, Redis, MongoDB, Vercel AI SDK |
-| **[Luarvia](https://www.luarvia.dev)** | Self-hosted CI/CD and deployment platform with automated reverse-proxy and Cloudflare tunnel integration | Go, Docker, Nginx, Stripe API, MySQL |
+| **[Luarvia](https://dash.luarvia.dev)** | Self-hosted CI/CD and deployment platform with automated reverse-proxy and Cloudflare tunnel integration | Go, Docker, Nginx, Stripe API, MySQL |
 | **Lojas M&M** | E-commerce platform with integrated Mercado Pago checkout and automated shipping calculations | Next.js, React, Mercado Pago API, Correios API |
 
 ---
