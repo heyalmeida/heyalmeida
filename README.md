@@ -28,6 +28,7 @@ Software engineer focused on backend architecture, SaaS infrastructure, and AI t
 
 - **Current Projects:** 
   Building **[Émile CLI](https://github.com/heyalmeida/emile-cli)** — a provider-agnostic terminal coding agent with a skills system, MCP integration, and plans mode.
+  <br>
   Building **[Luarvia](https://dash.luarvia.dev) - a managed deployment platform for agencies and freelance developers, with teams, projects, resource pools, and more.**
 - **Focus:** AI-powered developer tooling, multi-tenant systems, and web performance.
 - **Workflow:** Spec-driven development with AI engineering tools (Claude Code, Cursor) to maintain high output without sacrificing code quality.
