@@ -54,6 +54,7 @@ Software engineer focused on backend architecture, SaaS infrastructure, and AI t
 | **Lumine** | Multi-provider LLM chatbot platform with real-time streaming responses | Next.js 15, Hono, Redis, MongoDB, Vercel AI SDK |
 | **[Luarvia](https://dash.luarvia.dev)** | Self-hosted CI/CD and deployment platform with automated reverse-proxy and Cloudflare tunnel integration | Go, Docker, Nginx, Stripe API, MySQL |
 | **Lojas M&M** | E-commerce platform with integrated Mercado Pago checkout and automated shipping calculations | Next.js, React, Mercado Pago API, Correios API |
+| [**Studia**](https://github.com/heyalmeida/studia-app/tree/main) | Academic study organizer for managing subjects, study tasks, exams, schedules and academic progress | React Native, Expo, TypeScript |
 
 ---
 
