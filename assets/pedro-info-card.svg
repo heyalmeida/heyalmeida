@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 334" width="850" height="334" role="img" aria-label="pedro@github — neofetch-style profile card: Now: Software Engineer · Go &amp; TypeScript · Focus: Backend architecture · SaaS infra · AI tooling · Stack: Go · TypeScript · Node.js · Next.js · Docker · Data: MySQL · Redis · MongoDB · SQL Server · Infra: Cloudflare · Nginx · GitHub Actions · Linux · Building: Émile CLI — provider-agnostic terminal coding agent · Also: Luarvia — managed deployment platform · Web: dash.luarvia.dev · github.com/heyalmeida · Mail: mc33pedrobr@gmail.com">
+  <title>pedro@github — neofetch-style profile card: Now: Software Engineer · Go &amp; TypeScript · Focus: Backend architecture · SaaS infra · AI tooling · Stack: Go · TypeScript · Node.js · Next.js · Docker · Data: MySQL · Redis · MongoDB · SQL Server · Infra: Cloudflare · Nginx · GitHub Actions · Linux · Building: Émile CLI — provider-agnostic terminal coding agent · Also: Luarvia — managed deployment platform · Web: dash.luarvia.dev · github.com/heyalmeida · Mail: mc33pedrobr@gmail.com</title>
+  <style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #c9d1d9; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+.cell { animation: cellIn .5s cubic-bezier(.2,.7,.3,1) both; transform-box: fill-box; transform-origin: center; }
+@keyframes cellIn { from { opacity: 0; transform: translate(-3px,-3px) scale(.45); } to { opacity: 1; transform: none; } }
+.row { animation: rowIn .55s cubic-bezier(.2,.7,.3,1) both; }
+@keyframes rowIn { from { opacity: 0; transform: translateX(-14px); } to { opacity: 1; transform: none; } }
+.pop { animation: popIn .6s cubic-bezier(.2,.7,.3,1) both; transform-box: fill-box; transform-origin: center; }
+@keyframes popIn { from { opacity: 0; transform: scale(.85); } to { opacity: 1; transform: none; } }
+.cursor { animation: blink 1.05s steps(1,end) infinite; }
+@keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) {
+  /* CSS animations are dropped (elements rest at their visible state), but the
+     SMIL row wipe is intentionally kept: without it the clip rects would stay at
+     width 0 and the art would never appear. */
+  .cell, .row, .pop, .cursor { animation: none !important; opacity: 1 !important; transform: none !important; }
+}
+
+  </style>
+  <rect x="0.5" y="0.5" width="849" height="333" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <line x1="1" y1="34" x2="849" y2="34" stroke="#30363d" stroke-opacity="0.7"/>
+    <circle cx="22" cy="18" r="5" fill="#ff5f56" opacity="0.85"/>
+    <circle cx="40" cy="18" r="5" fill="#e3b341" opacity="0.85"/>
+    <circle cx="58" cy="18" r="5" fill="#39d353" opacity="0.85"/>
+  <text x="78" y="22.5" font-size="12" fill="#8b949e">pedro@github: ~ (neofetch)</text>
+  <g transform="translate(44, 110)">
+  <rect class="pop" style="animation-delay:120ms" x="0" y="0" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:142ms" x="10" y="0" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:164ms" x="20" y="0" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:186ms" x="30" y="0" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:208ms" x="40" y="0" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:230ms" x="50" y="0" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:142ms" x="0" y="10" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:164ms" x="10" y="10" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:252ms" x="50" y="10" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:274ms" x="60" y="10" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:164ms" x="0" y="20" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:186ms" x="10" y="20" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:296ms" x="60" y="20" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:318ms" x="70" y="20" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:186ms" x="0" y="30" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:208ms" x="10" y="30" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:296ms" x="50" y="30" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:318ms" x="60" y="30" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:208ms" x="0" y="40" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:230ms" x="10" y="40" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:252ms" x="20" y="40" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:274ms" x="30" y="40" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:296ms" x="40" y="40" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:318ms" x="50" y="40" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:230ms" x="0" y="50" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:252ms" x="10" y="50" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:252ms" x="0" y="60" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:274ms" x="10" y="60" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:340ms" x="20" y="80" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:362ms" x="30" y="80" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:384ms" x="40" y="80" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:406ms" x="50" y="80" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:340ms" x="10" y="90" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:362ms" x="20" y="90" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:428ms" x="50" y="90" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:450ms" x="60" y="90" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:340ms" x="0" y="100" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:362ms" x="10" y="100" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:472ms" x="60" y="100" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:494ms" x="70" y="100" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:362ms" x="0" y="110" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:384ms" x="10" y="110" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:494ms" x="60" y="110" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:516ms" x="70" y="110" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:384ms" x="0" y="120" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:406ms" x="10" y="120" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:428ms" x="20" y="120" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:450ms" x="30" y="120" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:472ms" x="40" y="120" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:494ms" x="50" y="120" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:516ms" x="60" y="120" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:538ms" x="70" y="120" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:406ms" x="0" y="130" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:428ms" x="10" y="130" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:538ms" x="60" y="130" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:560ms" x="70" y="130" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:428ms" x="0" y="140" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:450ms" x="10" y="140" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:560ms" x="60" y="140" width="8" height="8" rx="2" fill="#61afef"/>
+  <rect class="pop" style="animation-delay:582ms" x="70" y="140" width="8" height="8" rx="2" fill="#61afef"/>
+  </g>
+  <text x="172" y="74" font-size="15" fill="#61afef" font-weight="600">pedro@github</text>
+  <line x1="172" y1="90" x2="806" y2="90" stroke="#30363d"/>
+  <g class="row" style="animation-delay:260ms">
+    <text x="172" y="125" font-size="12.5" fill="#61afef" font-weight="600">Now</text>
+    <text x="300" y="125" font-size="13" fill="#c9d1d9">Software Engineer · Go &amp; TypeScript</text>
+  </g>
+  <g class="row" style="animation-delay:330ms">
+    <text x="172" y="147" font-size="12.5" fill="#61afef" font-weight="600">Focus</text>
+    <text x="300" y="147" font-size="13" fill="#c9d1d9">Backend architecture · SaaS infra · AI tooling</text>
+  </g>
+  <g class="row" style="animation-delay:400ms">
+    <text x="172" y="169" font-size="12.5" fill="#61afef" font-weight="600">Stack</text>
+    <text x="300" y="169" font-size="13" fill="#c9d1d9">Go · TypeScript · Node.js · Next.js · Docker</text>
+  </g>
+  <g class="row" style="animation-delay:470ms">
+    <text x="172" y="191" font-size="12.5" fill="#61afef" font-weight="600">Data</text>
+    <text x="300" y="191" font-size="13" fill="#c9d1d9">MySQL · Redis · MongoDB · SQL Server</text>
+  </g>
+  <g class="row" style="animation-delay:540ms">
+    <text x="172" y="213" font-size="12.5" fill="#61afef" font-weight="600">Infra</text>
+    <text x="300" y="213" font-size="13" fill="#c9d1d9">Cloudflare · Nginx · GitHub Actions · Linux</text>
+  </g>
+  <g class="row" style="animation-delay:610ms">
+    <text x="172" y="235" font-size="12.5" fill="#61afef" font-weight="600">Building</text>
+    <text x="300" y="235" font-size="13" fill="#c9d1d9">Émile CLI — provider-agnostic terminal coding agent</text>
+  </g>
+  <g class="row" style="animation-delay:680ms">
+    <text x="172" y="257" font-size="12.5" fill="#61afef" font-weight="600">Also</text>
+    <text x="300" y="257" font-size="13" fill="#c9d1d9">Luarvia — managed deployment platform</text>
+  </g>
+  <g class="row" style="animation-delay:750ms">
+    <text x="172" y="279" font-size="12.5" fill="#61afef" font-weight="600">Web</text>
+    <text x="300" y="279" font-size="13" fill="#c9d1d9">dash.luarvia.dev · github.com/heyalmeida</text>
+  </g>
+  <g class="row" style="animation-delay:820ms">
+    <text x="172" y="301" font-size="12.5" fill="#61afef" font-weight="600">Mail</text>
+    <text x="300" y="301" font-size="13" fill="#c9d1d9">mc33pedrobr@gmail.com</text>
+  </g>
+</svg>

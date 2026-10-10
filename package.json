@@ -1,0 +1,17 @@
+{
+  "name": "heyalmeida",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Profile README art: self-generated animated SVGs (ASCII wordmark, neofetch info card, live contribution heatmap).",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "art": "node scripts/build-art.mjs",
+    "art:data": "node scripts/fetch-contributions.mjs",
+    "art:heatmap": "node scripts/render-heatmap.mjs",
+    "art:card": "node scripts/render-info-card.mjs",
+    "art:ascii": "node scripts/render-ascii.mjs"
+  }
+}

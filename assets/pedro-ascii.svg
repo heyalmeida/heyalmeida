@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 334" width="850" height="334" role="img" aria-label="ASCII art banner: PEDRO / ALMEIDA">
+  <title>ASCII art banner: PEDRO / ALMEIDA</title>
+  <style>
+text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; fill: #c9d1d9; }
+.mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+.cell { animation: cellIn .5s cubic-bezier(.2,.7,.3,1) both; transform-box: fill-box; transform-origin: center; }
+@keyframes cellIn { from { opacity: 0; transform: translate(-3px,-3px) scale(.45); } to { opacity: 1; transform: none; } }
+.row { animation: rowIn .55s cubic-bezier(.2,.7,.3,1) both; }
+@keyframes rowIn { from { opacity: 0; transform: translateX(-14px); } to { opacity: 1; transform: none; } }
+.pop { animation: popIn .6s cubic-bezier(.2,.7,.3,1) both; transform-box: fill-box; transform-origin: center; }
+@keyframes popIn { from { opacity: 0; transform: scale(.85); } to { opacity: 1; transform: none; } }
+.cursor { animation: blink 1.05s steps(1,end) infinite; }
+@keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) {
+  /* CSS animations are dropped (elements rest at their visible state), but the
+     SMIL row wipe is intentionally kept: without it the clip rects would stay at
+     width 0 and the art would never appear. */
+  .cell, .row, .pop, .cursor { animation: none !important; opacity: 1 !important; transform: none !important; }
+}
+
+  </style>
+  <rect x="0.5" y="0.5" width="849" height="333" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <line x1="1" y1="34" x2="849" y2="34" stroke="#30363d" stroke-opacity="0.7"/>
+    <circle cx="22" cy="18" r="5" fill="#ff5f56" opacity="0.85"/>
+    <circle cx="40" cy="18" r="5" fill="#e3b341" opacity="0.85"/>
+    <circle cx="58" cy="18" r="5" fill="#39d353" opacity="0.85"/>
+  <text x="78" y="22.5" font-size="12" fill="#8b949e">pedro@github: ~/whoami</text>
+  <defs>
+    <clipPath id="wipe-0">
+      <rect x="195.00" y="58.00" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="570.00" dur="0.42s" begin="0.150s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="wipe-1">
+      <rect x="185.00" y="74.67" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="570.00" dur="0.42s" begin="0.240s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="wipe-2">
+      <rect x="185.00" y="91.33" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="580.00" dur="0.42s" begin="0.330s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="wipe-3">
+      <rect x="185.00" y="108.00" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="580.00" dur="0.42s" begin="0.420s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="wipe-4">
+      <rect x="185.00" y="124.67" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="580.00" dur="0.42s" begin="0.510s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="wipe-5">
+      <rect x="185.00" y="141.33" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="570.00" dur="0.42s" begin="0.600s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="wipe-6">
+      <rect x="195.00" y="158.00" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="570.00" dur="0.42s" begin="0.690s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="wipe-8">
+      <rect x="115.00" y="191.33" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="670.00" dur="0.42s" begin="0.870s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="wipe-9">
+      <rect x="95.00" y="208.00" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="670.00" dur="0.42s" begin="0.960s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="wipe-10">
+      <rect x="85.00" y="224.67" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="680.00" dur="0.42s" begin="1.050s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="wipe-11">
+      <rect x="85.00" y="241.33" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="680.00" dur="0.42s" begin="1.140s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="wipe-12">
+      <rect x="85.00" y="258.00" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="680.00" dur="0.42s" begin="1.230s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="wipe-13">
+      <rect x="85.00" y="274.67" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="680.00" dur="0.42s" begin="1.320s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="wipe-14">
+      <rect x="85.00" y="291.33" width="0" height="16.67">
+        <animate attributeName="width" from="0" to="680.00" dur="0.42s" begin="1.410s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.25 1"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#wipe-0)">
+    <text xml:space="preserve" x="195.00" y="71.00" font-size="16.67" textLength="570.00" lengthAdjust="spacing" fill="#61afef">           @@@@@@    @@@@@@@@  @@@@@     @@@@@@      @@@@</text>
+  </g>
+  <g clip-path="url(#wipe-1)">
+    <text xml:space="preserve" x="185.00" y="87.67" font-size="16.67" textLength="570.00" lengthAdjust="spacing" fill="#61afef">          @@   @@   @@        @@   @@   @@   @@    @@  @@</text>
+  </g>
+  <g clip-path="url(#wipe-2)">
+    <text xml:space="preserve" x="185.00" y="104.33" font-size="16.67" textLength="580.00" lengthAdjust="spacing" fill="#61afef">          @@    @@  @@        @@    @@  @@    @@  @@    @@</text>
+  </g>
+  <g clip-path="url(#wipe-3)">
+    <text xml:space="preserve" x="185.00" y="121.00" font-size="16.67" textLength="580.00" lengthAdjust="spacing" fill="#61afef">          @@   @@   @@@@@@    @@    @@  @@   @@   @@    @@</text>
+  </g>
+  <g clip-path="url(#wipe-4)">
+    <text xml:space="preserve" x="185.00" y="137.67" font-size="16.67" textLength="580.00" lengthAdjust="spacing" fill="#61afef">          @@@@@@    @@        @@    @@  @@@@@@    @@    @@</text>
+  </g>
+  <g clip-path="url(#wipe-5)">
+    <text xml:space="preserve" x="185.00" y="154.33" font-size="16.67" textLength="570.00" lengthAdjust="spacing" fill="#61afef">          @@        @@        @@   @@   @@  @@     @@  @@</text>
+  </g>
+  <g clip-path="url(#wipe-6)">
+    <text xml:space="preserve" x="195.00" y="171.00" font-size="16.67" textLength="570.00" lengthAdjust="spacing" fill="#61afef">           @@        @@@@@@@@  @@@@@     @@   @@     @@@@</text>
+  </g>
+  <g clip-path="url(#wipe-8)">
+    <text xml:space="preserve" x="115.00" y="204.33" font-size="16.67" textLength="670.00" lengthAdjust="spacing" fill="#61afef">   @@@@    @@        @@    @@  @@@@@@@@  @@@@@@@@  @@@@@       @@@@</text>
+  </g>
+  <g clip-path="url(#wipe-9)">
+    <text xml:space="preserve" x="95.00" y="221.00" font-size="16.67" textLength="670.00" lengthAdjust="spacing" fill="#61afef"> @@  @@   @@        @@@  @@@  @@           @@     @@   @@    @@  @@</text>
+  </g>
+  <g clip-path="url(#wipe-10)">
+    <text xml:space="preserve" x="85.00" y="237.67" font-size="16.67" textLength="680.00" lengthAdjust="spacing" fill="#61afef">@@    @@  @@        @@ @@ @@  @@           @@     @@    @@  @@    @@</text>
+  </g>
+  <g clip-path="url(#wipe-11)">
+    <text xml:space="preserve" x="85.00" y="254.33" font-size="16.67" textLength="680.00" lengthAdjust="spacing" fill="#61afef">@@    @@  @@        @@    @@  @@@@@@       @@     @@    @@  @@    @@</text>
+  </g>
+  <g clip-path="url(#wipe-12)">
+    <text xml:space="preserve" x="85.00" y="271.00" font-size="16.67" textLength="680.00" lengthAdjust="spacing" fill="#61afef">@@@@@@@@  @@        @@    @@  @@           @@     @@    @@  @@@@@@@@</text>
+  </g>
+  <g clip-path="url(#wipe-13)">
+    <text xml:space="preserve" x="85.00" y="287.67" font-size="16.67" textLength="680.00" lengthAdjust="spacing" fill="#61afef">@@    @@  @@        @@    @@  @@           @@     @@   @@   @@    @@</text>
+  </g>
+  <g clip-path="url(#wipe-14)">
+    <text xml:space="preserve" x="85.00" y="304.33" font-size="16.67" textLength="680.00" lengthAdjust="spacing" fill="#61afef">@@    @@  @@@@@@@@  @@    @@  @@@@@@@@  @@@@@@@@  @@@@@     @@    @@</text>
+  </g>
+  <rect class="cursor" x="85.00" y="305.00" width="14.00" height="3" rx="1.5" fill="#61afef"/>
+</svg>
