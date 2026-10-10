@@ -17,14 +17,6 @@
 
 <br />
 
-<h3><code>pedro@github:~$ whoami</code></h3>
-
-<div align="center">
-  <img src="./assets/pedro-ascii.svg" width="850" alt="PEDRO ALMEIDA rendered as ASCII art" />
-</div>
-
-<br />
-
 <h3><code>pedro@github:~$ neofetch</code></h3>
 
 <div align="center">
