@@ -26,7 +26,7 @@
 
 Software engineer focused on backend architecture, SaaS infrastructure, and AI tooling.
 
-# Current Projects
+### // Current Projects
 
   Building **[Émile CLI](https://github.com/heyalmeida/emile-cli) —** a provider-agnostic terminal coding agent with a skills system, MCP integration, and plans mode.
 
