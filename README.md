@@ -36,16 +36,6 @@ Software engineer focused on backend architecture, SaaS infrastructure, and AI t
 
 <br />
 
-<h3><code>pedro@github:~$ cat stack.txt</code></h3>
-
-- **Languages:** Go, TypeScript, JavaScript (ES6+), Java, SQL
-- **Frontend:** Next.js (App Router), React, Tailwind CSS
-- **Backend:** Go (GORM, REST), Node.js (NestJS, Express, Hono)
-- **Infra / DevOps:** Docker, Nginx, Cloudflare Tunnels, GitHub Actions, GitLab CI, Linux
-- **Databases:** MySQL, MongoDB, Redis, Microsoft SQL Server
-
-<br />
-
 <h3><code>pedro@github:~$ git log --stat</code></h3>
 
 | Project | Description | Stack |
