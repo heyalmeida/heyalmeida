@@ -51,7 +51,7 @@ Software engineer focused on backend architecture, SaaS infrastructure, and AI t
 <h3><code>pedro@github:~$ ./contributions.sh</code></h3>
 
 <div align="center">
-  <img src="./assets/contrib-heatmap.svg" width="850" alt="Contribution heatmap for heyalmeida over the last year" />
+  <img src="./assets/contrib-heatmap.svg" width="850" alt="Contribution skyline in a dark terminal: green buildings represent active days, with the busiest day highlighted" />
 </div>
 
 <br />
@@ -59,5 +59,5 @@ Software engineer focused on backend architecture, SaaS infrastructure, and AI t
 <div align="center">
   <sub><code>heyalmeida</code> — clean architecture &amp; minimal design.</sub>
   <br />
-  <sub>The artwork above is generated in-repo with dependency-free Node scripts — no third-party stats services — and the contribution graph refreshes itself daily via GitHub Actions.</sub>
+  <sub>One day, one building. Height reflects contributions; quiet days stay at ground level. Generated in-repo and refreshed daily via GitHub Actions.</sub>
 </div>

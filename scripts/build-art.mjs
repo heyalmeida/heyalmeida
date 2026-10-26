@@ -2,7 +2,7 @@
 /**
  * Regenerate every static piece of profile art in one go.
  *
- * The daily GitHub Action only rebuilds the heatmap (that is the only panel whose
+ * The daily GitHub Action only rebuilds the contribution city (that is the only panel whose
  * data changes); run this when the wordmark, the info card or your photo change.
  *
  * Usage: node scripts/build-art.mjs
@@ -17,7 +17,7 @@ const HERE = dirname(fileURLToPath(import.meta.url));
 const steps = [
   ['render-ascii.mjs', 'ASCII wordmark'],
   ['render-info-card.mjs', 'neofetch info card'],
-  ['render-heatmap.mjs', 'contribution heatmap'],
+  ['render-heatmap.mjs', 'contribution city'],
 ];
 
 let failed = false;

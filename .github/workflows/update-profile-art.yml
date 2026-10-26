@@ -20,7 +20,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  heatmap:
+  contribution-city:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -33,11 +33,11 @@ jobs:
       - name: Scrape the public contribution calendar
         run: node scripts/fetch-contributions.mjs
 
-      - name: Render the animated heatmap
+      - name: Render the animated contribution city
         run: node scripts/render-heatmap.mjs
 
-      - name: Commit the refreshed graph
+      - name: Commit the refreshed city
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json assets/contrib-heatmap.svg"
+          commit_message: "chore: refresh contribution city [skip ci]"
+          file_pattern: "data/contributions.json assets/contrib-heatmap.svg assets/contrib-city.svg"
